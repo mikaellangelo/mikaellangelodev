@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dev-mikaelangelo&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=mikaellangelo&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -137,7 +137,7 @@ STACK  :: Node.js
          Prisma
 ```
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelodev)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelo)
 
 </td>
 
@@ -155,7 +155,7 @@ STACK  :: Node.js
          Prisma
 ```
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelodev)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelo)
 
 </td>
 
@@ -176,7 +176,7 @@ STACK  :: TypeScript
          PostgreSQL
 ```
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelodev)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelo)
 
 </td>
 
@@ -193,7 +193,7 @@ STACK  :: Node.js
          TypeScript
 ```
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelodev)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/mikaellangelo)
 
 </td>
 
@@ -237,9 +237,9 @@ STACK  :: Node.js
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaellangelodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaellangelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellangelodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00f7ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellangelo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00f7ff&text_color=ffffff"/>
 
 </div>
 
@@ -247,7 +247,7 @@ STACK  :: Node.js
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mikaellangelodev&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=mikaellangelo&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
 
@@ -257,7 +257,7 @@ STACK  :: Node.js
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaellangelodev&bg_color=050505&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaellangelo&bg_color=050505&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -267,7 +267,7 @@ STACK  :: Node.js
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mikaellangelodev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mikaellangelo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -277,7 +277,7 @@ STACK  :: Node.js
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mikaellangelodev/mikaellangelodev/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/mikaellangelodev/mikaellangelo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -287,7 +287,7 @@ STACK  :: Node.js
 
 <div align="center">
 
-<a href="https://github.com/mikaellangelodev">
+<a href="https://github.com/mikaellangelo">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
