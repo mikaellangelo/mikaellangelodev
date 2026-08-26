@@ -295,7 +295,7 @@ STACK  :: Node.js
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">mikaelangelorodriguesdeoliveir@gmail.com
+<a href="mailto:mikaelangelorodriguesdeoliveira@gmail.com">
 <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
